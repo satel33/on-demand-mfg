@@ -2200,7 +2200,7 @@ tr {
   }
 
   .nav-shadow {
-    height: 4.5rem;
+    height: 125.2px;
   }
 
   .nav-main {
@@ -2684,10 +2684,6 @@ tr {
 
 .rich-text p {
   margin-bottom: 1rem;
-}
-
-.rich-text p:last-child {
-  margin-bottom: 0;
 }
 
 .rich-text a {
